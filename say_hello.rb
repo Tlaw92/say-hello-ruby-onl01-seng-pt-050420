@@ -6,9 +6,5 @@
 
 #say_hello ("Kent Beck")  
 
-
-def greeting(name = "Kent Beck")
-  puts "Hello, #{name}"
-end
-
-greeting
+def say_hello(name = “Ruby Programmer!")
+  
